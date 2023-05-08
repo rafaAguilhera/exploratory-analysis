@@ -1,0 +1,7 @@
+install.packages( " mlbench " )
+biblioteca ( mlbench )
+install.packages( " corrplot " )
+biblioteca ( corrplot )
+corrplot( correlações , method  =  " circle " )
+install.packages( " e1071 " )
+biblioteca ( e1071 )
